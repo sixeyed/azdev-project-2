@@ -41,6 +41,7 @@ $keyVaultName="kv$($projectName)"
 
 # servicebus:
 $serviceBusName="sb$($projectName)"
+# TODO - tier, need Premium for vnet integration
 
 # vnet:
 $vnetName="vn$($projectName)"
